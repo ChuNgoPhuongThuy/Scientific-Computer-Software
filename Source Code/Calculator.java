@@ -1,4 +1,4 @@
-package mt;
+package ScientificComputerSoftware;
 
 
 import javax.swing.JButton;
