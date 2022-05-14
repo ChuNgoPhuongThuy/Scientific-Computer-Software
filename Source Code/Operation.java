@@ -1,5 +1,4 @@
-package mt;
-
+package ScientificComputerSoftware;
 
 import static java.lang.Math.*;
 
